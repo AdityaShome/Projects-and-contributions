@@ -5,6 +5,5 @@
 ## Key Features
 - Accepts `.png` image uploads through a simple web interface.
 - Predicts handwritten digits or characters using a trained TensorFlow model.
-- Built with **Flask** for a lightweight and flexible backend.
 - **Containerized with Docker** for consistent and repeatable deployments.
 - **Kubernetes-ready** for scalable and production-grade deployment.
